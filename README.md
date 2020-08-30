@@ -1,4 +1,4 @@
-# reinforcement-learning-coursera-specialisation
+# Reinforcement Learning Coursera Specialisation
 Assignments and Projects part of the Reinforcement Learning specialisation on Coursera
 
 Fundamentals of Reinforcement Learning
