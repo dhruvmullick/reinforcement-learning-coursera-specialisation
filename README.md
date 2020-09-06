@@ -8,3 +8,4 @@ Fundamentals of Reinforcement Learning
 Sample-based Learning Methods
 1. Week 3 - Implement TD(0) learning for solving the Cliff Walking Environment for an agent.
 2. Week 4 - Implement Q learning and expected SARSA (on policy) step updates for Cliff Walking environment for an agent.
+3. Week 5 - Implement Dyna Q and Dyna Q+ architectures for changing maze problem.
