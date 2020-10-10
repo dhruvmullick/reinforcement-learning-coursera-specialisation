@@ -14,4 +14,4 @@ C. Course3: Prediction and Control with Function Approximation
 1. Week 1 - Implement TD with state aggregation
 2. Week 2 - Implement Semi gradient TD with a neural network
 3. Week 3 - Implement SARSA with function approximation using Tile coding
-
+4. Week 4 - Implement Average Reward based Softmax Actor Critic Policy Gradient algorithm
